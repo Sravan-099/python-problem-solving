@@ -1,0 +1,5 @@
+customer_name = input("enter customer name:")
+product_name = input("enter product name:")
+quantity = int(input("enter quantity:"))
+invoice = (f"customer name: {customer_name}\nproduct name: {product_name}\nquantity: {quantity}")
+print(invoice)
