@@ -1,6 +1,0 @@
-ProductName = input("enter product name:")
-ProductQuantity = input("enter product quantity:")
-ProductPrice = input("enter product price:")
-print("product name:" + ProductName)
-print("product quantity:" + ProductQuantity)
-print("product price:" + ProductPrice)

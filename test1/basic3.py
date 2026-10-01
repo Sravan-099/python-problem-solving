@@ -1,1 +1,0 @@
-print("Product: AI Resume Builder | Status: Active.")
