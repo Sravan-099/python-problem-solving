@@ -1,0 +1,51 @@
+'''
+num = int(input("enter your number"));
+if num % 3 == 0:
+    print("divisible")
+else:
+    print("not divisible")
+'''
+
+'''
+
+num = [1,2,3,4,5,6,7,8,9]
+even = 0
+odd = 0
+for n in num:
+  if n % 2 == 0:
+      even =even+1
+  else:
+      odd = odd+1
+
+print("even ", even)
+print("odd", odd)
+'''
+
+'''
+marks = int(input("enter marks"));
+if marks >=90:
+    print("A")
+elif marks  >=75:
+    print("B")
+elif marks >=40:
+    print("C")
+else:
+    print("F")
+
+'''
+
+'''
+num = [1,2,3,4,5,6,7,8,9]
+even = 0
+odd = 0
+for n in num:
+  if n % 2 == 0:
+      even =even+1
+  else:
+      odd = odd+1
+
+print("even ", even)
+print("odd", odd)
+
+'''
+
