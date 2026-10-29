@@ -1,0 +1,6 @@
+a = [3,0,1,0,2]; m = –1
+for j from 0 to 4:
+  if a[j] & j:
+    a[j] = a[j] & j
+m = a[0] + a[4] – a[1]
+print m

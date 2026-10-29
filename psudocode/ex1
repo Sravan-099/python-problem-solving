@@ -1,0 +1,6 @@
+a=50, b=23
+c = a + b
+c = c mod b
+b = b + c
+a = a - b
+print a,b,c
